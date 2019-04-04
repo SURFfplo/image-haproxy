@@ -2,5 +2,4 @@
 
 # build
 docker build -t haproxy .
-docker tag haproxy:latest haproxy:0.1
-
+#docker tag haproxy:latest haproxy:0.1
